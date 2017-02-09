@@ -1,0 +1,81 @@
+.container{
+ width:960px ;
+
+}
+
+.head1{
+ line-height:5rem;
+ vertical-align: middle;
+ border-bottom:solid;
+ border-color:#cccccc ;
+}
+
+.head2{
+ font-family: 'Caveat Brush', cursive;
+ font-size:2rem;
+ color:black ;
+}
+.head2:active{
+  color:blue;
+}
+
+.shead{
+ border-left : solid;
+ border-right: solid;
+
+ font-family: 'Caveat Brush', cursive;
+ font-size:2rem;
+ color:#777777 ;
+
+}
+
+.space1{
+ height:1rem; 
+ 
+}
+
+
+.emph{
+ min-height:20px;
+
+}
+
+
+.Myname{
+  background-color:#4aaaa5;
+  padding-top: 1rem; 
+  text-align:center; 
+  font-size:2.5rem;
+  color:white;
+} 
+
+.content1{
+  background-color:white;
+  width:650px;
+  min-height:300px;
+}
+
+.conhead{
+  font-size:2rem;
+  text-decoration-style: solid;
+  padding-top: 2rem;
+  color:#4aaaa5 ;
+  border-bottom:solid;
+  border-bottom-color: #cccccc; 
+}
+
+#myinfo 
+{}
+
+#myinfo img{
+  
+  width:20rem;
+  height:25rem;
+
+}
+
+.gap{
+  width:10rem;
+  
+
+}
