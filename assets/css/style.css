@@ -1,5 +1,5 @@
 .container{
- width:960px ;
+ width:980px ;
 
 }
 
@@ -20,6 +20,7 @@
 }
 
 .shead{
+
  border-left : solid;
  border-right: solid;
 
@@ -51,7 +52,7 @@
 
 .content1{
   background-color:white;
-  width:650px;
+  width:500px;
   min-height:300px;
 }
 
@@ -69,8 +70,8 @@
 
 #myinfo img{
   
-  width:20rem;
-  height:25rem;
+  width:15rem;
+  height:20rem;
 
 }
 
@@ -78,4 +79,116 @@
   width:10rem;
   
 
+}
+
+
+.modified{
+  background-color:white;
+  width:160px;
+  min-height: 150px; 
+
+}
+
+.cat{
+
+}
+
+.cat img{
+  width:3rem;
+  height:4rem;
+}
+
+.lin{
+
+}
+
+.lin img{
+ width:3rem;
+ height:4rem;
+
+}
+
+.hedd{
+  min-height:2rem;
+  border-bottom:solid;
+  border-bottom-color: #cccccc; 
+
+}
+
+ul {
+  padding-top:0.5rem;
+  margin-left:-0.7rem;
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+}
+
+.border-bottom{
+
+
+ margin: 0% 10% 0% 10%;
+ min-height:3rem;
+ border-bottom:solid;
+ border-bottom-color: #cccccc; 
+
+}
+
+.target{
+  color:#4aaaa5;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  
+}
+
+.footer{
+  
+  background:black; 
+  width:980px;
+  
+  position:fixed;
+  bottom:0%;
+}
+.center{
+  color:white;
+  text-align:middle; 
+}
+
+#port{
+
+}
+
+#port img{
+ width:13rem;
+ height:18rem;
+
+
+}
+
+#port{
+  float:left;
+  margin-left:3rem;
+  margin-top:5%;
+  width:15rem;
+  height:18rem;
+  margin-bottom:5%;
+}
+
+
+#port img{
+  width:100%;
+  height:100%;
+
+}
+
+
+#com{
+  position: relative;
+  bottom: 60%;
+  width:100%;
+  height:30%;
+  background-color:#4aaaa5;
+  color:white;
+  font-size:30px;
 }
